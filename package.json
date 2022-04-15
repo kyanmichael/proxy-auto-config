@@ -1,0 +1,9 @@
+{
+  "name": "proxy-auto-config",
+  "version": "1.0.0",
+  "author": "Michael Hogg",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "14.1.0"
+  }
+}
